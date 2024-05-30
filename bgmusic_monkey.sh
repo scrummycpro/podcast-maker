@@ -46,3 +46,4 @@ cd BGMUSIC_BACKGROUND && ls -1 *mp3 | awk '{print "mv " $0 " BGMUSIC_BACKGROUND_
 
 #display the size of the podcast zip file
 du -h "$1"*
+
